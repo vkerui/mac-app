@@ -11,3 +11,5 @@
 [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop)
 - 开发工具
 [DevUtils](https://github.com/DevUtilsApp/DevUtils-app)
+- 系统清理
+[Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me)
