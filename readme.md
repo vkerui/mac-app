@@ -9,3 +9,5 @@
 [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 - 音乐播放器
 [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop)
+- 开发工具
+[DevUtils](https://github.com/DevUtilsApp/DevUtils-app)
